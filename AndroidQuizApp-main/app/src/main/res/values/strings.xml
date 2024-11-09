@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidQuizApp</string>
+    <string-array name="department">
+        <item>Computer Science</item>
+        <item>Software Enginering</item>
+        <item>Information System</item>
+        <item>Information Science</item>
+        <item>Information Technology</item>
+
+    </string-array>
+    <string-array name="chapter">
+        <item>Chapter1</item>
+        <item>Chapter2</item>
+        <item>Chapter3</item>
+        <item>Chapter4</item>
+    </string-array>
+</resources>
